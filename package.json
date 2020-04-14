@@ -1,0 +1,21 @@
+{
+  "name": "grunt-playlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dale Sauls",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-sass": "^2.1.0",
+    "node-sass": "^4.13.1",
+    "sass": "^1.26.3"
+  },
+  "dependencies": {
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
